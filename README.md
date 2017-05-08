@@ -4,4 +4,4 @@
 
 # INTEGRAÇÕES
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+Nesta opção, serão demonstrados os Logs do pedido que contem Dropshipping, Logs de erros do ábacos e também v-tex e resultado da replicação do estoque.
